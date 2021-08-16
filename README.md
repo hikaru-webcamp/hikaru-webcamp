@@ -23,7 +23,13 @@
 |  2021/8-2021/現在  |就職活動中|
 
 ## Link
-[Twitter](https://twitter.com/utyuzinpro)  
-[Qiita](https://qiita.com/skyvader0524)  
-[ポートフォリオ](https://github.com/hikaru-webcamp/PF_Shuffle)
+| value  |  key  |
+| ---- | ---- |
+|  日々の勉強の気づきをツイート  |[Twitter](https://twitter.com/utyuzinpro)  |
+|  学習した内容をアウトプット  |[Qiita](https://qiita.com/skyvader0524)  |
+|  Railsで作成したポートフォリオ  |[ポートフォリオ](https://github.com/hikaru-webcamp/PF_Shuffle)
+
+
+
+
 
