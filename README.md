@@ -4,6 +4,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hikaru-webcamp&show_icons=true&theme=dark)  
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hikaru-webcamp&theme=monokai)
+
+[![github-chart](https://github-chart.vercel.app/api?user=hikaru-webcamp)](https://github.com/hikaru-webcamp/github-chart)
 ### 名前  
 大井 光 （おおい ひかる）
 ### 年齢  
