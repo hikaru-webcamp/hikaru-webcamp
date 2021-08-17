@@ -31,7 +31,7 @@
 | ---- | ---- |
 |  日々の勉強の気づきをツイート  |[Twitter](https://twitter.com/utyuzinpro)  |
 |  学習した内容をアウトプット  |[Qiita](https://qiita.com/skyvader0524)  |
-|  Railsで作成したポートフォリオ  |[ポートフォリオ](https://github.com/hikaru-webcamp/PF_Shuffle)
+|  Railsで作成したポートフォリオ  |[ポートフォリオ_Shuffle](https://github.com/hikaru-webcamp/PF_Shuffle)
 
 ## 学習内容をまとめた記事を書きました！
 よろしければ見てって下さい！
