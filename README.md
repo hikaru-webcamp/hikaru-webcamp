@@ -5,7 +5,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hikaru-webcamp&theme=monokai)
 
-[![github-chart](https://github-chart.vercel.app/api?user=hikaru-webcamp)](https://github.com/hikaru-webcamp/github-chart)
 ### 名前  
 大井 光 （おおい ひかる）
 ### 年齢  
@@ -34,7 +33,10 @@
 |  学習した内容をアウトプット  |[Qiita](https://qiita.com/skyvader0524)  |
 |  Railsで作成したポートフォリオ  |[ポートフォリオ](https://github.com/hikaru-webcamp/PF_Shuffle)
 
-
+## 学習内容をまとめた記事を書きました！
+よろしければ見てって下さい！
+未経験者に少しでも貢献できればという思いで、記事に致しました。  
+[【エンジニアを目指してる】未経験エンジニアの学習内容まとめ【静岡の人】](https://qiita.com/skyvader0524/items/afb9a380f523fb003ea7)
 
 
 
