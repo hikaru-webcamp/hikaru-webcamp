@@ -27,7 +27,7 @@
 |  2021/8  |就職活動|
 |  2021/９  |WEBエンジニア|
 
-## Link
+## リンク
 | value  |  key  |
 | ---- | ---- |
 |  日々の勉強の気づきをツイート  |[Twitter](https://twitter.com/utyuzinpro)  |
