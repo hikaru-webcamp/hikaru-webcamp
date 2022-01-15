@@ -35,17 +35,17 @@
 |  2021/９  |WEBエンジニア|
 
 ## 【言語】
-
+HTML/CSS/JavaScript/jQuery/PHP/
 
 ## 【実務経験】
-WordPress 
-futureshop 
-ecbeing 
-楽天店 RMS 
-au PAY マーケット 
-Yahoo!ショッピング 
-ebisumart 
-Official site 
+WordPress  
+futureshop  
+ecbeing  
+楽天店 RMS  
+au PAY マーケット  
+Yahoo!ショッピング  
+ebisumart  
+Official site  
 
 ## リンク
 | value  |  key  |
