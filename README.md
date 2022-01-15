@@ -34,6 +34,19 @@
 |  2021/8  |就職活動 |
 |  2021/９  |WEBエンジニア|
 
+## 【言語】
+
+
+## 【実務経験】
+WordPress 
+futureshop 
+ecbeing 
+楽天店 RMS 
+au PAY マーケット 
+Yahoo!ショッピング 
+ebisumart 
+Official site 
+
 ## リンク
 | value  |  key  |
 | ---- | ---- |
