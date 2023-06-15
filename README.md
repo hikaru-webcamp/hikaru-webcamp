@@ -6,9 +6,10 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hikaru-webcamp&theme=monokai)
 
 ### 名前  
-大井 光 （おおい ひかる）
+HIKARU 
+
 ### 年齢  
-1992年生まれ。今年29歳です。  
+1992年生まれ
 
 ### 住んでいる場所  
 現在静岡県在住。
